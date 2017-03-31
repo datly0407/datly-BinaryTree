@@ -1,0 +1,44 @@
+/**
+ * 
+ */
+package tests;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+/**
+ * @author datly
+ *
+ */
+public class LinkedBinaryTreeTest
+{
+
+    /**
+     * @throws java.lang.Exception
+     */
+    @Before
+    public void setUp() throws Exception
+    {
+    }
+
+    /**
+     * Test method for {@link structures.LinkedBinaryTree#countLeafNodes()}.
+     */
+    @Test
+    public void testCountLeafNodes()
+    {
+        fail("Not yet implemented");
+    }
+
+    /**
+     * Test method for {@link structures.LinkedBinaryTree#countOneChildNodes()}.
+     */
+    @Test
+    public void testCountOneChildNodes()
+    {
+        fail("Not yet implemented");
+    }
+
+}
